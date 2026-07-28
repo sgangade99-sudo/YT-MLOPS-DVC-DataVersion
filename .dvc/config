@@ -1,0 +1,4 @@
+[core]
+    remote = mylocalremote
+['remote "mylocalremote"']
+    url = C:\Users\shubham gangade\OneDrive\Desktop\MLOPs\YT-MLOPS-SERIES\YT-MLOPS-DVC-DataVersion\S3
